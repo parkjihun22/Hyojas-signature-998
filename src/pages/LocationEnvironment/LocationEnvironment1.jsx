@@ -102,7 +102,7 @@ const LocationEnvironment1 = () => {
     content="전주 효자동 중심 입지, 효자 시그니처 998의 입지환경을 확인하세요. 생활·교육·상업시설이 가까운 도심 생활권과 편리한 주거 환경을 제공합니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.delidilly.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://delidilly.co.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -112,8 +112,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="전주 효자동 중심 생활권에 위치한 효자 시그니처 998. 생활·교육·상업시설이 가까운 편리한 입지환경을 확인하세요."
   />
-  <meta property="og:url" content="https://www.delidilly.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://www.delidilly.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://delidilly.co.kr/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://delidilly.co.kr/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="전주 효자동 중심 입지와 생활 인프라를 갖춘 효자 시그니처 998의 입지환경을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.delidilly.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://www.delidilly.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://delidilly.co.kr/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://delidilly.co.kr/LocationEnvironment/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -133,20 +133,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "효자 시그니처 998 - 입지환경",
-      "url": "https://www.delidilly.co.kr/LocationEnvironment/intro",
+      "url": "https://delidilly.co.kr/LocationEnvironment/intro",
       "description":
         "전주 효자동 중심 입지에 위치한 효자 시그니처 998의 생활 환경과 주변 인프라 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.delidilly.co.kr/img/og/location.jpg",
+        "contentUrl": "https://delidilly.co.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.delidilly.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.delidilly.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://delidilly.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://delidilly.co.kr/LocationEnvironment/intro" }
         ]
       }
     })}
