@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="전주 효자동 중심에 들어서는 효자 시그니처 998의 브랜드 가치와 주거 철학을 소개합니다. 도심 입지와 합리적인 가격 경쟁력을 갖춘 새로운 주거 프리미엄을 만나보세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/intro" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="전주 효자동 중심에 들어서는 효자 시그니처 998. 도심 생활 인프라와 미래 가치를 갖춘 새로운 주거 프리미엄을 소개합니다."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.delidilly.co.kr/Brand/intro" />
+  <meta property="og:image" content="https://www.delidilly.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

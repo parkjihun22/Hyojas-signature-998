@@ -73,7 +73,7 @@ export default function Customer() {
     content="효자 시그니처 998 관심고객 등록을 통해 분양 정보와 주요 안내를 가장 먼저 받아보세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Promotion/Customer" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/Promotion/Customer" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -83,8 +83,8 @@ export default function Customer() {
     property="og:description"
     content="효자 시그니처 998 관심고객 등록을 통해 다양한 분양 정보를 가장 먼저 받아보세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Promotion/Customer" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/customer.jpg" />
+  <meta property="og:url" content="https://www.delidilly.co.kr/Promotion/Customer" />
+  <meta property="og:image" content="https://www.delidilly.co.kr/img/og/customer.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -95,8 +95,8 @@ export default function Customer() {
     name="twitter:description"
     content="효자 시그니처 998 관심고객 등록을 통해 주요 안내와 분양 정보를 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/customer.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/Promotion/Customer" />
+  <meta name="twitter:image" content="https://www.delidilly.co.kr/img/og/customer.jpg" />
+  <meta name="twitter:url" content="https://www.delidilly.co.kr/Promotion/Customer" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -104,20 +104,20 @@ export default function Customer() {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "효자 시그니처 998 - 관심고객등록",
-      "url": "https://www.lotte-castl.co.kr/Promotion/Customer",
+      "url": "https://www.delidilly.co.kr/Promotion/Customer",
       "description":
         "효자 시그니처 998 관심고객 등록을 통해 다양한 분양 정보를 안내받을 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/customer.jpg",
+        "contentUrl": "https://www.delidilly.co.kr/img/og/customer.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://www.lotte-castl.co.kr/Promotion/Customer" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.delidilly.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://www.delidilly.co.kr/Promotion/Customer" }
         ]
       }
     })}

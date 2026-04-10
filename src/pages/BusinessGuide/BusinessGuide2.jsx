@@ -56,7 +56,7 @@ const BusinessGuide2 = () => {
     name="description"
     content="효자 시그니처 998 공급 일정을 확인하세요. 사업 진행 단계와 주요 일정 안내를 통해 단지 정보를 한눈에 확인할 수 있습니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/plan" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

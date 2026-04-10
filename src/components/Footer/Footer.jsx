@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "효자 시그니처 998", url: "https://www.lotte-castl.co.kr/" },
+  { name: "효자 시그니처 998", url: "https://www.delidilly.co.kr/" },
 ];
 
 const Footer = () => {
