@@ -54,7 +54,7 @@ const Emodel = () => {
     content="효자 시그니처 998 E-모델하우스를 온라인에서 확인하세요. 세대별 평면과 공간 구성을 통해 단지의 주거 가치를 확인할 수 있습니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://delidilly.co.kr/FloorPlan/Emodel" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/FloorPlan/Emodel" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -64,8 +64,8 @@ const Emodel = () => {
     property="og:description"
     content="효자 시그니처 998 E-모델하우스를 통해 세대별 평면과 공간 구성을 확인하세요."
   />
-  <meta property="og:url" content="https://delidilly.co.kr/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://delidilly.co.kr/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://www.delidilly.co.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://www.delidilly.co.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -76,8 +76,8 @@ const Emodel = () => {
     name="twitter:description"
     content="효자 시그니처 998 E-모델하우스를 통해 세대별 평면과 공간 구성을 확인하세요."
   />
-  <meta name="twitter:image" content="https://delidilly.co.kr/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://delidilly.co.kr/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://www.delidilly.co.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://www.delidilly.co.kr/FloorPlan/Emodel" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -85,20 +85,20 @@ const Emodel = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "효자 시그니처 998 - E-모델하우스",
-      "url": "https://delidilly.co.kr/FloorPlan/Emodel",
+      "url": "https://www.delidilly.co.kr/FloorPlan/Emodel",
       "description":
         "효자 시그니처 998 E-모델하우스를 통해 세대별 평면과 공간 구성을 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://delidilly.co.kr/img/og/emodel.jpg",
+        "contentUrl": "https://www.delidilly.co.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://delidilly.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://delidilly.co.kr/FloorPlan/Emodel" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.delidilly.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://www.delidilly.co.kr/FloorPlan/Emodel" }
         ]
       }
     })}

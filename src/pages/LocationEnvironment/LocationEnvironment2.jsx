@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="효자 시그니처 998 프리미엄을 확인하세요. 전주 효자동 중심 입지와 편리한 생활 인프라, 쾌적한 주거 환경을 갖춘 새로운 주거 가치를 제공합니다."
   />
-  <link rel="canonical" href="https://delidilly.co.kr/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

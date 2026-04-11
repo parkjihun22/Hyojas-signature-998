@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="효자 시그니처 998 동·호수 배치도를 통해 세대별 위치와 단지 구성을 확인하세요."
   />
-  <link rel="canonical" href="https://delidilly.co.kr/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="효자 시그니처 998의 세대별 위치와 단지 구성을 동·호수 배치도로 확인하세요."
   />
-  <meta property="og:url" content="https://delidilly.co.kr/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://delidilly.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.delidilly.co.kr/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.delidilly.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="효자 시그니처 998의 커뮤니티 공간과 단지 내 편의시설을 소개합니다. 입주민의 일상을 더욱 풍요롭게 만드는 주거 가치를 확인하세요."
   />
-  <link rel="canonical" href="https://delidilly.co.kr/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.delidilly.co.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="효자 시그니처 998의 커뮤니티 공간과 단지 내 편의시설로 더 높은 주거 가치를 만나보세요."
   />
-  <meta property="og:url" content="https://delidilly.co.kr/ComplexGuide/community" />
-  <meta property="og:image" content="https://delidilly.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.delidilly.co.kr/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.delidilly.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />
