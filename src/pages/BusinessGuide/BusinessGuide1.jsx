@@ -22,7 +22,7 @@ const projectData = [
   { label: '연면적', value: '추후 공지' },
   { label: '사업방식', value: '지역주택조합 아파트' },
   { label: '주택형', value: '전용 59㎡ · 78㎡ · 84㎡A · 84㎡B' },
-  { label: '세대수', value: '총 426세대' },
+  { label: '세대수', value: '총 998세대' },
 ];
   
   

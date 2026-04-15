@@ -11,6 +11,8 @@ import { Helmet } from "react-helmet-async";
 
 import page1 from "../../assets/BusinessGuide/BusinessGuide2/page1.jpg";
 
+import Ready from "../../components/Ready/Ready";
+
 const BusinessGuide2 = () => {
     const menuContents = [
       { title: "사업안내", url: "/BusinessGuide/intro" },
@@ -78,11 +80,13 @@ const BusinessGuide2 = () => {
 </div>
 
 {/* 분양일정 이미지 또는 컴포넌트 영역 */}
-<img
+{/* <img
   className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`}
   src={page1}
   alt="효자 시그니처 998 분양일정 안내"
-/>
+/> */}
+
+<Ready/>
 
 <div className={styles.readyContainer}>
   {/* 필요한 경우 Ready 또는 분양 카운트 컴포넌트 삽입 */}

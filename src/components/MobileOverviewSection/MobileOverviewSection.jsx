@@ -36,7 +36,7 @@ const items = [
         </li>
         <li>
           <strong>세대수</strong>
-          <span>총 426세대</span>
+          <span>총 998세대</span>
         </li>
         <li>
           <strong>주택형</strong>
